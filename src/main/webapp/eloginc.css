@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+b{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
+
+a{
+    margin-left: 1100px;
+}
+
+.arr{
+    height: 100px;
+}
+
+.hrr{
+    margin-right: 550px;
+}
+
+#flx{
+    margin-top: 22px;
+    display: flex;
+    justify-content: space-between;
+}
